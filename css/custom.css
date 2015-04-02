@@ -1,4 +1,5 @@
 /* Custom title + footer for lightbox */
+
 .caption {
     padding-top: 24px;
     /*font-size: 12px;
@@ -7,26 +8,30 @@
 }
 
 .fancybox-nav {
-height: 90%;
+    height: 90%;
 }
 
 .fancybox-title {
-/*font: 600 1.3em "Helvetica Neue",Helvetica,Arial,sans-serif;
+    /*font: 600 1.3em "Helvetica Neue",Helvetica,Arial,sans-serif;
 font: 600 1.2em/1.2em "Open Sans",sans-serif;*/
-font-size: 1.2em;
-font-weight: 600; 
-margin-bottom: 12px;
+    
+    font-size: 1.2em;
+    font-weight: 600;
+    margin-bottom: 12px;
 }
 
 .glyphicon {
-	padding-left:5px;
-	font-size: 2em;
+    padding-left: 5px;
+    font-size: 2em;
 }
 
 .count {
-	text-align: right;
+    text-align: right;
 }
 
+.fancybox-title {
+	font: 600 1.2em/1.2em "Open Sans",sans-serif;
+}
 /*img.img-responsive {
 margin-left: auto;
 margin-right: auto;
